@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d20e878ac89398f45b5e6dfc84eef20f
+  m_SerializeEntries:
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: SCN_Boot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2de4e2b17db4ec4899b92e72e805793
+    m_Address: SCN_Core
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc5c29269815a7347bb0d52484360ad4
+    m_Address: PFB_UIRoot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_UIView
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 372b29753c5c5a246827491ff5d79e05
+    m_Address: PFB_JoystickView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_UIView
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0ea86f55e6c3654f9d41aed869eaa53
+    m_Address: PFB_Character
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b573fd66bccf88409b4ec4c38fb0921
+    m_Address: PFB_Level
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb3cb9fc6151f6243a73e1878fcc907e
+    m_Address: PFB_LoadingView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_UIView
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 008d1b7d51ecac641853519f2894dd19
+    m_Address: PFB_Camera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fae1f5d21ce5404fa3ae914e71f527f
+    m_Address: PFB_CharacterStatEntry
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_UIView
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 393521d3b1a06c6438d51898ed5798ea
+    m_Address: PFB_CharacterStatView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_UIView
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93e31f8b6b8dc4547b07d0a6b388ac96
+    m_Address: PFB_InventoryView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_UIView
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d14a153bbd3d2d54ab8412d4c4bb3df0
+    m_Address: PFB_InventorySlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_UIView
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1da83335f066b1e4a901036cee9e6452
+    m_Address: PFB_InventoryDragPreview
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_UIView
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dc2ace8f9d72c043955ed757d1da1ee
+    m_Address: PFB_Item_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_Items
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d4400141e61627478300dcc7f09806f
+    m_Address: PFB_Item_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_Items
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b2895559fe4f6549bc23cb63ee71cd8
+    m_Address: PFB_Item_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_Items
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7eadb4b03bebfd4db5c603f4711c838
+    m_Address: PFB_Item_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_Items
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b394d8e1e93be5941926e9fb91e10cb3
+    m_Address: PFB_Item_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_Items
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c47727d8851bb904998ace7ed62d9b08
+    m_Address: PFB_SettingsView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LAB_UIView
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f96eca1cab8824c41adab344e44ffa3a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0df0a9d1f5102674a9b524b4baf04f91, type: 2}
+    - {fileID: 11400000, guid: c3204b25c938e7b439c3c74ea1b580d2, type: 2}
