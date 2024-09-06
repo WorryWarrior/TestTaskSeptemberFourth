@@ -1,5 +1,6 @@
 # Общая информация
 
+- Ссылка на текст тестового задания - https://drive.google.com/file/d/1pw5PbQHCz6eWw-dn8NfN5DbFe7HxRxe-/
 - Ссылка на билд - https://drive.google.com/file/d/1BV5y6KwlSPF_dBTARwQOAr_GoTBbZLjB/
 - Версия Unity - 2022.3.36f1
 - Время выполнения - 18 часов
